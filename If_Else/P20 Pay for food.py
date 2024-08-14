@@ -1,6 +1,6 @@
 Money=int(input("Enter yor amount ="))
 
 if Money>2000:
-    print("I will pay")
+    print("Let's We Eat Pizza")
 else:
-    print("Sorry i dont have enough money")
+    print("We Eat Panipuri")
