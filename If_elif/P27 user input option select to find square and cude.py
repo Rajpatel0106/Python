@@ -12,4 +12,3 @@ elif op == 2:
     print("Cube =", cu)
 else:
     print("Wrong opt")
-    
