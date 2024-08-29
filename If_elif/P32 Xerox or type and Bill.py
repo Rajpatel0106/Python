@@ -37,7 +37,7 @@ elif op == 3:
         bill1 = qt2 * 20
         print("Price = 20, Total Bill =", bill1)
 
-        Total = bill + bill1
-        print("Total Bill =", Total)
+    Total = bill + bill1
+    print("Total Bill =", Total)
 else:
     print("Wrong option")
