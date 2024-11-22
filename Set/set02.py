@@ -5,3 +5,6 @@ set4 = {8, 9, 7}
 
 print(set1 - set2)
 print(set2 - set1)
+print(set3 - set4)
+print(set4 - set3)
+print(set1 - set4)
