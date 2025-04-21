@@ -9,3 +9,6 @@ Total = Mon + Tue + Wed + Thu + Fri + Sat + Sun
 avg = Total / 7
 print("Total Temp:", Total)
 print("avg:", avg)
+
+print("Herik")
+
