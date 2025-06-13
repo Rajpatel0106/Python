@@ -10,5 +10,3 @@ avg = Total / 7
 print("Total Temp:", Total)
 print("avg:", avg)
 
-print("Herik")
-
